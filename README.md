@@ -111,7 +111,7 @@ Prepare the original `m2` file and the `txt` file from model prediction (each li
 To use the pre-trained combination model to get the final result, run the following command
 
 ```cmd
-cd ETTE/3-Ensemble/greco
+cd ETTE/3-Ensemble
 
 pip install -e requirements.txt
 
