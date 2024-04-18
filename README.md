@@ -108,10 +108,39 @@ Prepare the original `m2` file and the `txt` file from model prediction (each li
 * 2.`sh compute_bea2019_m2.sh`
 
 ## 3. Ensemble
+To use the pre-trained combination model to get the final result, run the following command
 
-## Acknowledgements
+```cmd
+cd greco
+
+pip install -e requirements.txt
+
+wget -P models https://sterling8.d2.comp.nus.edu.sg/~reza/GRECO/checkpoint.bin
+```
+
+Then, put the results from the previous models into `results/test` and `results/dev`
+
+Run the pre-defined scripts to get the final output.
+
+For the development set:
+
+```cmd
+sh scripts/run_dev.sh
+```
+
+For the test set:
+
+```cmd
+sh scripts/run_test.sh
+```
+
+At last, compress bea-19-test.txt into a zip file and upload it to https://codalab.lisn.upsaclay.fr/competitions/4057#participate
+
+## References
+* **BEA 2019 Shared Task - Grammatical Error Correction:** https://codalab.lisn.upsaclay.fr/competitions/4057
 * **ged_baselines:** https://github.com/gotutiyan/ged_baselines
 * **TemplateGEC:** https://github.com/li-aolong/TemplateGEC
+* **greco:** https://github.com/nusnlp/greco
 
 
 
