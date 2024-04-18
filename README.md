@@ -90,8 +90,11 @@ https://github.com/flairNLP/flair.git
 https://medium.com/thecyphy/training-custom-ner-model-using-flair-df1f9ea9c762
 
 Last modified: Anocha 2/4/2024 
+### 2.2 BART
+* To train `BART` model :
+  * `cd ETTE/2-S2S/BART` and run `sh ./train.sh`
 
-### 2.2 T5-large
+### 2.3 T5-large
 * To train `T5` model only:
   * `cd ETTE/2-S2S/T5` and run `sh ./scripts/train_t5_baseline.sh`
 * To train `T5` model with template:
@@ -106,9 +109,9 @@ Prepare the original `m2` file and the `txt` file from model prediction (each li
 
 ## 3. Ensemble
 
-# Acknowledgements
-* ged_baselines: https://github.com/gotutiyan/ged_baselines
-* TemplateGEC: https://github.com/li-aolong/TemplateGEC
+## Acknowledgements
+* **ged_baselines:** https://github.com/gotutiyan/ged_baselines
+* **TemplateGEC:** https://github.com/li-aolong/TemplateGEC
 
 
 
