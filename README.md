@@ -29,14 +29,14 @@ In order to conduct sequence to sequence(S2S) experiments and template to sequen
 
 > Preparing data
 - using same sentence pairs from Liang
-- convert2pair.py for json to txt 
-- 3.1 Data Preparation.ipynb keep using  spacy.load("en_core_web_trf")
--- src.vocab
--- tgt.vocab
--- vectorized.txt
+- `convert2pair.py` for json to txt 
+- `3.1 Data Preparation.ipynb`keep using `spacy.load("en_core_web_trf")`
+-- `src.vocab`
+-- `tgt.vocab`
+-- `vectorized.txt`
 
 > Train
-- 3.2 RNN MT.ipynb
+- `3.2 RNN MT.ipynb`
 - using Same RNN architecture as deu-eng
 - using
     ```
