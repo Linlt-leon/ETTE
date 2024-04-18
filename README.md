@@ -14,7 +14,7 @@ Grammatical Error Correction (GEC) has gained significant attention in Natural L
 # Experiments
 ## 1. S2E
 Please see `ETTE/1-S2E/README.md` for environment installation
-run `runs2e.sh` for the whole sequence of steps- preprocess, train, plot results, evaluate and store scores, generate predictions for training, validation and test data then finally generate predictions for the actual test data. The predictions for the final test data will be stored in ./actualTestPredictions/binTestPred.txt and ./actualTestPredictions/multiTestPred.txt for binary and multi class respectively
+run `runs2e.sh` for the whole sequence of steps- preprocess, train, plot results, evaluate and store scores, generate predictions for training, validation and test data then finally generate predictions for the actual test data. The predictions for the final test data will be stored in `./actualTestPredictions/binTestPred.txt` and `./actualTestPredictions/multiTestPred.txt` for binary and multi class respectively
 
 ## 2. S2S
 ### Data preprocessing
@@ -62,7 +62,7 @@ In order to conduct sequence to sequence(S2S) experiments and template to sequen
 - using `ABCN.dev.gold.bea19.json`, `Awe/valid.m2`, `test/ABCN.test.bea19.orig`
 - using Chris' `3.1 - Data Preparation (MT)` to create `vectorized.txt`
 - using Chris' `3.2 Test section` to test
-- getting `xxx.out``
+- getting `xxx.out`
 - using post processing removing duplicate tokens
 - using NUS's m2scorer (modified 4 python 3)
 ```
@@ -71,7 +71,7 @@ In order to conduct sequence to sequence(S2S) experiments and template to sequen
 ```
 
 
-Note that: `en_core_web_trf`` is case sensitive
+Note that: `en_core_web_trf` is case sensitive
 ```
 >>> import spacy
 >>> nlp = spacy.load('en_core_web_trf')
@@ -106,11 +106,10 @@ Prepare the original `m2` file and the `txt` file from model prediction (each li
 
 ## 3. Ensemble
 
-# Cite
-```
-https://github.com/li-aolong/TemplateGEC
+# Acknowledgements
+* ged_baselines: https://github.com/gotutiyan/ged_baselines
+* TemplateGEC: https://github.com/li-aolong/TemplateGEC
 
-```
 
 
 
