@@ -1,0 +1,4384 @@
+C C M C R C C C C C C C C C C C C C C R C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C R C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C U C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C U R C C C C C C C C C C
+C U C U C C C C C C M C C C C C C C C U C C C C C C C C
+C C C C C C C C C C C C C C C C R R R C C C C C C U C C C
+C C C C C C C R C C C R C C C R C C C C C
+C C C C C C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C R R C C C C C C C C
+C C C C C R R C C M C C M C C C C C C C C C C C C C C C C
+U U C C C C C C C C C C C C C C C C C C C C C C C C R C C
+C C C C C C C C C C C C C C C C C C C C R C
+C C C C M C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C
+C C C C C R C C R R C C C
+C C C C C C C C C C R R C C C C C C C R C C C
+C C C C C R C C C
+C C C C C C C C C
+C C C C C R C C C C C C
+C
+C C C C C C C C R C C C C
+C C C C R C C R R C C R C C M C R C C C C C C C R C C C C C C C
+C C C C C
+R C C C M C R C C C C C C C C C C C C R C C R C C R C C C
+C C C
+C C C C C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C C R C C C
+C C M C C C C C C C
+C C C C C C C C C C C C C M C M C M C C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C C C
+C C C C C M C C C C C C C
+C C C M C C C C C R C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C
+C C C R R C C R R C C C C C C C
+C C C C C C C C
+C C C C C
+C M C C R C C C C M C C C C C C C C C C
+C C C C U C M C C C C C M C C C
+C M C C C C C C R C C C C C
+C C C C C C C M C C C M C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C R C C C C C C C C M C C
+C C U M C C C C C M C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C R C C M C C C C C C C R C C R C C C
+C C C C C M C C C C C C C C C C C C R C C C C C C C C M M C C M R C C C U C C C
+C C M C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C R M C C R C C M C C C C C M C R C C C U C C C C R C C C R U C C C
+C C R R C C C C R M C C C C M C C C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C
+C C C C C C C C C C R C C C C C C C C C C C C C C C C C C
+R C C C C C C M C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C R R C C C C U R C C C C
+C C C C C R R C C C C C C C C C R R C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C R C C
+C C C C C C C C C C C R R C C C R C U C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C M C R C C C C C C
+C R C C C C C C C C C C C U U C R R C C C C
+R C C C U C C C R C C C C C C R C R C C C R C R C C
+C C C C R C C C
+C C C C C C C
+C C C C C C C C C C U C C C C M C C C C C C C R C C M C C C C C C C C R C C C C C C M C C C C C C M R R C C C
+C C C C C C C C C C C C M C C C C C R C C M C
+C C C C C C C C C C C C C C C
+R M C C C C C C R R C C C
+C C C C C C C C C M C C C C R C C C C C C
+C C C C C R R C
+C R C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C R C C M C C C C R C
+C C C C C M C C C C C C C C
+C C C C C C C C C C C R C C R R C C C C C C C C R C C C C C
+C C C C C C C C C C C C R C
+C C C C C C C C C C C C
+C C C C C C C M R R C R C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+M C C C R C C C C C R R R C
+C C C C C U C C C R C
+C R C C C C C C C C C C C C
+R C C C C C C C C C R R R R C C C C C C C C C C C C C R C
+C C C C R C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C
+C C C C C C
+C C M C C C C C M C C C C C C C C U C R C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C C C C C C C C
+C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C M C C
+C C C C C C C C C C C C C C
+C C C C C C C C C
+C M C C C C R R C M C C C C R C C M C C C C M C C C C M C C C C C C C C C M M C C C C C C C C C C C C C C C M C C C R C C M C C C C C C R C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+M C C C C C C C C C C
+C C C C C C U C C C C C C M C C C
+C C C C C C C C C C R C M C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C U C C C C C C
+C M R C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+U C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C
+C C C C C C R C C R R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C U C R C C C C R C C C C M C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C
+C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C R C
+C R R R C C C R C C C C C R C C C C C C C C C C C C C C C C R C M C R C C C C C R R C C R R C C R C C M R R C C C C C C C R R C C C C C C M C C C R M R C R C C R R C C C C C C C C C C R R C M R C C C C C C C C C C C C R R R C C
+C C C C C R C C C C R C C
+C C
+C C C C C C C C C R C R C C C C C C C R R C R C C R C C C C R C C C C R C C C R R C C C C R C C C C C C R C C C C C R R C C C R C C C R C C C R C
+C R C C C C C C C R C C C C C C C C C C C C C C C C C C C R R C C R C C C C R R C C C R R C C C C C R R C R C C C C C R C C C C C C C C R C C C R R C C C C C C C C R C R C C R C R C R
+C C C C C C C C C
+C C C C M C C R C C C C M M C C R C C C C C
+C C C C M C C C C C C C C C C C
+C C C
+C R C C C C C C
+C C C C C C C C C C
+C C C C C C C M C R R C C C C C C C C C M C C C C C C C C C C
+C C C C C C C C C C C C R R C M C C C C C C C R R C C C C C C R C C C
+C C C R C C C C R C C C C C C C C C C
+C C R R C C R C C R C R C C C C C C C C M C C C C C C C C M C C C C C C C C C C
+C C C C C C M C C C C C C C R C C C C C C
+C C C C C C C C C C C C C C R C C C C C
+C C C C C
+C C C M C R C C C C C
+C C C C C C
+C C C C C C R C C C R C
+C C M C C C C C C C C
+C C C C C C C C C C M C
+C R C C C C R C C C C C
+C C C C C
+C C C C C C
+C C C C C C C C C C
+C C C C C C C C C
+C C R C C C
+C C C C C C C C
+C C C C C C C C C R C C C
+C C C M C C C C C C C C
+C C C C C C C
+C C M C C C C
+C C C C C C C C C C C C C C C R R C C
+R C C C C C C C C M C C C C C C C C C C C C M C C C C C R R C C C M R R R C C C M C C R C C C C C C C
+R C C C M C C C C C C C C C C M C C C C C R R C C C C C C C C M C C C C R C C C C C C R C C M R C C C C C C C C C R C C C C C M C C C C C M C C C C C C C C C
+R M R C R C C C R C C C M C C R R C C C C R R C C C C C R R R C C M C C C C C M C C C C C C C M C C C C C M C C C C C C C C C C C C C C C C C C C C C C C
+R C M C C C C R C C C R C C C C C C C C C C C C C C C R R C C M C C C C C C C C C
+C C C M C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C M C M R C C M C C
+M C M C C C C C C C C C
+C C C C C C R C C C C
+C C C R C C C C R C C R C C C C C C C
+C C C C C M C C C M C C M C C C R R C C C C C C C C C C C M C
+C C C M C C C C R C
+M C C C C C C C C C C C C C C C
+C R U C C M C C C C C C C
+C C U C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C
+C R C C C C C C C C M C C C M C C C C R C R C C C
+C R C C C C C C C C C C C C C R C C
+C R C R C C C C C C C C C C C M C
+C M C C C C C C C C C
+C C C C C C C C C C R C M C R C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C U C C C U R C C R C M C C C C C C C M C C
+C C C C C C
+C C C C M U C
+R C C C R C C R C C C C C C C C
+C R C C C C C C
+C C R C C C C C C C C R U C C C C R U C C
+C C C C C C C C C C C C C C C U C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C U C M C M C C
+C C C C C C U R C C
+C C C C R C C C
+C C C C C C C C C C C C C
+C C U C C C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C R C C C C C R C C
+R C R C
+C C C C
+C C C C
+C C C C C C
+C C C C R C R C C C C C
+C C C C C C C C C C C C C R C C R R C C C C C
+C C C
+C C C C R C C C C C C C C C C C C C C C C C M C C C C C C C C C C C
+C C C C C C M C R C C C C C C C C
+C C C C C C C C U C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C
+C C C C C C C R R C C C C C R C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C
+C C C C C C C C C C C C C C C C C
+C C C C C
+C C C M C C C C C C C C C C C
+C C C R C C C C C C
+C M C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C
+C C C C R C C C C R R C C M C C C C C R C
+C U C C C U C C C C C C R R C C C C C C C C C C C C C C R R C C C C C C C C C C R R C
+C C C C C C C C C R C U R U U C C R C C C C C C C C
+C C C C C C C C C
+C C C C C R U C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C R C C C
+C C C R C C C C C C C C R C C C R M C C C C C C C C
+C C C C C C C C C C C M C M C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C R R C C C C C C
+C C C C C C C C C C C M C C
+C C C C C C C C C C C C C R C C C
+C C C C C C C C C C U C C C C R C C C C C C C C C C
+C C C C
+C C C C C C C C
+C C C C C C C C C C C M C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C R C C R C
+C C C C C C C C C C C C C C C C C R R C C C C C C C C C C C C C C C C
+C C C M R C C C C C C C
+C C C C R C C C C C C C C C C C C C R C C C C C C C C C C C C C C C
+R C C C C C C C C R C C C C C
+C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+R R C C C C C C C C R C C C C C
+C C C C C R C C C C
+C C C C C C C C C
+C R C C C R C C C C
+C C R C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C R R C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C U C C C C C
+M C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C M C C C C C C C
+C C C C C
+C C C C C C C R C C C C
+C C C C R C C C C C
+C C C C C C C C C C C C C M M C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C M C C R C C R C C C C C C C C C C C R C C
+R C C C C C C C C C C C C C C C C
+C C C R C C
+C C
+C C C C R R C C C C C
+C C C C C C U C C C C C C C C
+C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C R C C C C
+C C C C C
+C C C R C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C C M C
+C C C C
+C C C C R C C C C C C C C C C C
+C M C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C
+C C
+U R R R U C C R C C C M C C R R R R C R C R C C C C C R C M C C C R C R C C C C C C R C C C C C C C C C C C R C C C C C R C R C R C R R R C R C R C C C C C C C C R C
+C C C C R R R R C C C C C C C C C C C C C C C C C C
+R C C C C C C C C C C C C C C C R R R C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C M C C C C C C C C M C C R M C C C C C
+C C C C C C C C C C C C C C C C C C R C C C C C C C C C M R C
+C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C R C C
+C C C C C C C C R R C C C C R C C C C C C C R R C C C C C C C C C R R C C C C C C C C
+C C R C C C C R C C C C C C C R C
+C C C C C C C C C C C C C C R C C C C C R C C C C C C
+C C C C C C C C C C R C
+C C C C C C C C C C R C C C C R C
+C C C C C C C C C C C C R R R R R C C C C C R R R C C C C C C R
+C C C C C C C
+C C C C R C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C R C C C C C R C C C C C
+C C M C C C C C
+C C C C C C C C R C
+C C C M C C C M C C C C C R C C C M C C C C
+C C M C C C C C C C C C C C C C C C C C C C C M C C M C C C C C
+C C C C C C C C C C C C C C C C C C M C C C C C C C M C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C M C C C C C
+C C C C R C C C C C C C C C
+C C R R C C C C C C C C C
+C C C C C C C C C C C C C
+R C C C C C C C C C C C C C
+C C C C C C C U R C C C C C C C C C C C R C
+C C C C C C C C C C C R C C C R C C C C C C
+C C C C C C R R R C C
+C C C C C
+C C C C R R C C C R R R C C R C
+C C C C R R R C C C C R C C C
+M C C C R R R C C C C R C
+C R C C C C C
+C C C
+C R C C C C C C C C C C C C C R C
+R C C M C C R R C C
+C C C C C C
+C C C C C C C C C C C
+C C M C R R C C C C M C C C
+C C C C C
+C C R R C C C
+C C R C C C
+C C C C C C C
+C C C C
+C C C C R C
+C C C C C C C M C C C R C C C C C R C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C R C C
+C C R C C C C C C C C C M C M C C C C C C C C C C C C C
+C C C C C R C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C M C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C R R C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+R C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C C
+C C C C C M C C C C C M C R C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C R C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C
+C C C C C C C C C C C C C C C C C C C C C R C C C C C R M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C R C C C C C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C R R C C C C C C C C C C C C C
+C C C C C C C C
+R C C R C C C C U R C C C C C C C R C C C C
+C C R C C C C C M C M C C C C C C C R C C C C C C C R C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C
+R C C C C C C C C C C C U R R R R R C
+C C C C C C
+C C C C C C C R C C C C M C
+C C C C R R C R C C C C C C C C C C C R R R U C C C C C
+C C C C C C C C C C C C C U C C C
+C C C C C C C C C M C C R R M C C C
+C C C C C C C C C C
+C C C M C M C C C C R R C C C C C C C R C C C C C C C C C C C C
+R R U C C C C C C C C C C C C C C C C C C C C C C C C M C C C C R C C C C C C C
+C C C C R C C C C
+C C C C C C C C M C C C C C C C C C C M C C C
+C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C R C C C C C R R C C R R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C M C C C
+R C C C C C C C C C R C C C C C C C C C C C C C C C C C C
+C R C C C C C C
+C C C C C C C C C C U C C R R C M C C C C C C C C C C R C C C C C C R U C C
+C C C C C C C C R C R C C C C C C C R R C C M C C C C C C C C
+C C C M C C C C C C U C C C C C
+C M C C C C C C C C C C C C C C C C C C C M C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C M C C C C C C C C C C R R R C C C C C C C C C C C
+C C C C C C C C M C R C C C C C C C C C C C C C C C C
+C R C C R C C M C C C C C C C C
+C C C C C C C C M C C C M C C C C C C C C C C C C
+C C C C C M R C C C C C R C C C C C C
+C M C C M C C C C C C M C C C C C C C C C C C C C C M C C R C C C C C M C C C C C C C C
+C C C M C C C C C C C C C C R C C C C C C M C C C C R R R C
+C C C C C R C C C C C C C C C M C C C R C C C C C C C C C C C C C
+R C C C C C C C C C C C C C C M C C R C C C C C C C
+C C C C
+C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C M R C C C C C C C C C C C C
+C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C C C
+R C C C C C C C C R C C R C C C C C C C C C C C C M C C C R C C C C C C C C C C R C C C C C C C C C C
+C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C R C
+C R R
+C C C R C C C C R R C C C C C C C C M R C C C R C C M C C C C R C C C C C C M C C C C C C C C
+C C C C C C C C C C C C C C R C C C R R C C M C C C C C M C C C C C C R R C C C C R R C
+C C C C C C C C C C C C R C C C C C C C C M C C C C C C C C C C C C C C R C C C C C C C C C C C R C C C C
+C M C C C C C C C C C C C C M C C C R R C C C
+C C C C R C C C M M C C C C C C C C C C C C C C C C C C M C C C C C C M C C C C C C
+C C C U C C M C M C C C C C C C C C C R C C C C C C R C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C R R C C C C C C C
+C C C C C C C C
+C C C C C C C C M C C C C C C C C C C C R C C
+C C C C C C C C C C C C C C C R C C C C C C C
+C C C C M C C C C C C R C C R C
+C C C C C R R C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C R C C C C
+C C C C C C C C C C
+C C C C C
+R C C C R C C C R R R C C C R R C C C C C R C C C C C C C C C
+R C C C R C C R R R C C C R C
+C C C C C R R C C R C C
+C C C M C R R R R C C R C C
+R R C C C C C C C C C C C
+C R C C C M C C R R C C C C C R R C C R C C C
+C C C C C C C C C R R C
+C R C R C C C R R C C C R R C R C C C C C C
+C R C
+C C C
+C C C C C C C C C C
+C C C C C M C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C R C C C C C C R R C C C C C C C C R C C C C C C C M R C C C
+C C C C C R C C C C C C C C C C C C C
+C C C R C C C
+C C
+C
+R C C C C C C C C C C C C C C C C C R R R C C C C R C C
+C C C M C C C C R R R C C C C C C R R R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C U C C C C C C C
+U R C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C
+C C R C C C C
+C C C C C
+C C C C C C C C C C C C C C
+C C C C U C C C C C C C C C C C C
+C C C C R C C C C
+C C C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C
+C C C
+C C C C C C C C C C C C C C C C M C C C C C C M C C C C C C C C C C C C R R C C C C C C C C C C C
+C C C C C C
+C C C M C C C
+C C R C M C C C
+C C C M C C C C C C C C C C C C C C C
+C C C C U C C C C C C C C C C C C
+C C C M C C C C C M C C C C
+C R C C C C C R C C C C C C C C C C C C
+C C C C C C C C M C C C C
+R U C R C C C C
+C C C C C C R C R C C R C
+C C C C C C C M R R C
+C C C C C C C C C C C C R C C C C R C C C R R C C C C C
+C C R R C U U C C C U R C R C C M C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C M C C U C C C R R C C C C C C C C C C C C C C C C C C R U C C C C C C R C C C C C C C C C C C C U C C C C C M C C U C C C C C C C C
+C C C C C C C M C C C C C C
+C M C M C C C
+C C R C C C C C C C C M C M R M C C C C
+R C R C C M C C C C C M C C C C C M R C R C C C C C M C C C R C C C
+R R R C C C
+R C C C R R R C R C C R C C C C R C R C M C C C C C R R C C C C C C R C R R
+C C C C C C
+R M C C R R C C C C C
+R R C C C C C C C C R C R C C C C M C C R C C R C C C C C C R C M C R R C R C M R C R C C C C C C C R C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C U C C C C R C
+R C C C M C C M C C M R C C C C C
+C C C C C C C C C R C
+C C C C C C C C C C C R C C C
+C C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C R C C C C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C M C C C C R C C C C C C C
+C C C C C C C C C C C C C C C C C C R C R R C C C
+C M C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C U C C C C
+C C C C C C C C C
+C C C C C U C C C R C C R R C C C C C R C C C C
+C C C C C C C C C C C C C C M C C C C C C R R C M C M R C C C C
+C C C C C C C C U R C C C C C C C C R R C R C C R C C C C C C C C R C C C C C C R R C C C C C C C C C C C C C C C C C C C C R R C C
+C C C C C C C C
+C C C C C C C C R R R C
+R C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C M C C C C C C R C C C C C C U C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C R R C
+C C C C C M C C C C C R C C C C R C R C C C C C C C
+R C R C C C C C C C C C C R C C C C C C C C C C
+R C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C
+C U C C C C C C C C C C C C C C C
+R M C C C
+C M C C C C R C C R C C C R R C C R C C C
+C C C C C C C C C C C C C C C M R C C C R C C C C C C R C C C
+C C C R C C C C C C C C C C C C C R R C C C M C C C C C C C
+R C C U R C C C R C C R C C C C R C M R C C C C C R R C C
+R C C C C C C R C C C C C C C C
+R C C C C C C R R C C C C C U C C C C M C C U C C M M C M C C C C C C C C C C C R R C C C R C C C C C R C C C R C R R C C R R C C C C M R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C R R C C C
+C C C C C C C U C C C C C C C C C C C C C C R C C C
+C C C C C C C C M M C C C C R R C C C C C C C C C C C
+R R R C R R C C R R C C C C C M C C C C C M C R C
+C C C C C C C C C M C C
+C C C C C C M C C C R R R C
+C
+C C
+C C C C
+C C C C C C R C C C
+C C R C M C C C C C
+R C C M M C C C C C C C C C C C C
+C R C R C C C C C
+C M C C C C C R C R C C C C C C C C C
+C C C M C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C
+C U C C R C C
+C C C C C C M C C C R C
+C C C M C C C C C C
+C C R C C C C C M C C C C U C C C C C C C C C
+C C C C C C C C C C
+C C C
+C C C
+C C C C M C C C C C C
+C C C C C C C C C C C
+C C C C M C C R C C C C C C C
+C C C M M C M C C C C C C C C
+C C C C C M C C C C C C R C
+C C C C M C C C C C C C C C R C C C C C
+C M C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C R C R M C C C C
+C C C C C C M C C C C R C R C
+C M C C C C U C C C C C C C C C C R C
+C M C C C R C C C R C C
+C C C C C U R C C C C C
+C C C C C C C C C C C C C C C C C
+C C C M M C C
+C M C M C C C C C
+C C C C C C R R C C C C C C C C C C C C C C C R R C C C C C C C C C C C C C C C C C C C R C
+C R C R C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C
+C C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C R U R R R R C C
+C C C C C C C C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C
+C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C M C C C
+C C C C C M C C C M C C
+C C C C C C C C C
+C C R C C C C C C C C R R C C C R R C M C C C C C R C M R C C R R C C C C C C C C C C R C C R C R R R C R U C C C U C R C C R R C C C R C C C C C C R U C C C R R R C R C
+C C C
+C C C C C C C C C C
+C C C C C R C C C C C C C
+C C C C C C
+C C C C C R U R R C C
+C C C C C
+C C C C C C C C C C C C
+C C C C C R C C C
+C C C C
+C C C C C C C
+C C C C C C C C C R R R C C C C C C C
+C C C R C C C
+C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C U C C C
+C C C C C R C C C C C C
+C C C C C C C C
+C C C C C C C
+C C C C C C R C C C C C C
+C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C R C C C C C
+C C R C C C C C C C C C C
+C C C C C C C R C C C C C C C C C C C C
+R C C C C C C C C C C
+C R C C C C C C C C C C C C C C C C
+C R R M C C C C C C C
+C C C C C C R C C C C C C C C R C C C
+C U R C C C C C C C C C C C C C C R C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C R C
+C C C R C R R R C C R C C
+C C C M C C C C R R R R C C C C C C C C C C C C
+C U R C C C C C C C R C
+C C C C C C M C R C C C C C C C C C C C C U R C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+R C C C C C C C M C C C C C C C
+C C C C C C C C M C C C C C C C C C C
+C C C C C C R C R C
+C C C M C C C C C M C C C M R C C C C R R C C C C C C C C R R R C C C C C M C C C C C C C C C C M C C C R C C C C C C
+C C C C C C C U C C C C C C C C C C C C C C C C C C C C C C C
+R C M C C C C C C C R R M C C C C C C C C U C C
+C R M R C C C C C C C C C C
+C M C C C C C C C C C C C C C C C R C C C C C C R R R R C C C C R R R R C R C C R C R C
+C C C R C C C C C R U C R U R C C C C C C C C C M R C C C C C M C M C
+R U C C C C C C C R R C C C C C C C C C C C C C C C C R C C C C
+C C C C
+C C C
+C C C R
+R C C
+C C C
+C C C C C C
+C R C C C C
+C C C C
+C C C C C
+C C C C
+C C C C
+C C C C
+C C C C C C
+C C C C C C
+C C C R R R R C C C
+C C C C
+C C C C
+R C C C C
+C C C
+C C C
+C C C
+C C C C C C C
+C C C C
+C C C C M C C R C C R R C C C U C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R C
+C C C C C M C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C
+C C C C C R C C C C R C C C C C C C C
+C C C M C C C C C C C R C C C C C C
+C C C C C C C C C C R C C
+C C C C C C M R R R C C C C R C C R C C C C
+C C C R C C C C C C C C C C
+C C C C C
+C C C C C R C C C C C C
+C C C C C C C R C C C C C C C C C U R C C R C C M C C C C C R C C C C C C
+C C C C C C C C C
+C C C M C C C C C C M R R C C M C C C C C C C C C C C C
+R C C M C C R C C R C C C C C U C C C C
+C C C C C C C C C C C C C C
+C C R C C C C C C C C C
+C C C C C C
+C C C M C C C C C C C C C C C C C C C C C
+C C C C R M C C C C C C C
+C C C C C R M C C C C C C C C C C C C C
+C C C C C C M C C C C C C C R C C C C
+C C C C M C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C
+C C R
+R C C C C
+C C C C C C C C C C C C C M R C C C
+C C C C C C C C C C C
+C C C C C C M C C
+C C C C C R C R R C C R C C
+R C C C C C
+C C M C C C C C C C
+C C C C C C C C C C M C C R C C C C R R C C C R C C C R C C C C
+C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C R R R C C R C
+C C C C C C C C C C C C C R R C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R R C R C R C C C C C C C C C C R C C C C C M C C C C
+C C C C C C C C C C R C C C C C C C C C C C C R C C C C C C C C C
+R C C C R C C R C C C R C C C C C C C
+C C C C C C R C C C C C C C C C M R C R C C C C C C C C C C
+C M C C C C C C R R C
+C C C C C C C C C C C
+C C C C C C C C M C C C C C R C C C C C C C C C R R C C C C C
+C U C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C
+C C C C C C C C R U C C C C R R C R R U C C C C C C C C C
+C C C C C C C C
+C M C C R C C C C C C C C C C C C C C C C C C R R C C C C C R R C C C C C C R R C C R R C C C C C C C C C R C C C C C C
+R C R R R R C M M C C C R C C C M
+C C C C C C C C C C C R R R C C C C C R C C C C
+M C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C C C C R R C C C C C C C C R C
+C C C R C C C C C C C R C C C C C C C C C C C C C R C R C C C C C
+C C C C
+C C C C
+C C C C C C
+C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C
+C C C M C C C C C C C C C C R C C C C C C C C C C R C C C C C
+C C C C C C C C R R C C C C
+C C C C C C C R R M C C
+C C C C C C C C C C C C
+C C C R C C C C C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C
+C C C C C C C M C C C C
+C R C C C C C C R C C C
+C C C C M M C C C C C C
+C C C C C C C C
+C C C M C C C C C C R C C C C C C C
+C C C R C C M M C C C C C C C C M C M C C C C C C C C C C C C R C C C R C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C
+C C C M C C C C M C C C C M C C C
+C C C
+C C C C C C C C C C U C C C
+C C C C C C C
+C C C C C C C C C C C C C C
+C C C R C C R C C
+C C C C C C C C C R R C C C C C C C C C C U C C
+C C C C C M C C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C U C C C C
+C C C C C C C C
+C C C C C
+C C C C C C C C C R R C C C C C
+R C C C C C C C C C C C C C C C C C
+C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C R R C C C C
+C C C C C C
+C C C C R C
+C C C C C C C C
+C M C R C C C C C C C C C C C C C C C C C C R C C C C
+C C C C C C C C R C C C C
+C C C M C C C C C C C C C R C C M U U R C M C C C C C C C U R C
+C R C C C C C C C C C
+C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C M C U C C C C C C C C C R C C C C C C
+R R R C R C C C C R C C C C C R C C C C C C C C
+C R C C C C C C C C C C C C C C C C C C C C C C C R C C C C
+C C C C C C
+C C C C C C C C C C
+C C C C C C C C C
+C R C C C R C C C C
+C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C
+C C R R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C R R C C C C C C R R C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C R C C C C C C C C
+C C C C C C C C C C C C C R C C C C R C C C
+C C C C C C R C C C C C R R U C C C C R M C C C
+C C C C C R R R R C M R C
+C C C C C C C C C C
+C C C C C C C C C C C C C M C C
+C C C C C C C C C C C C C C C C C C C C C U C R R R C C C C C
+C C C C C C C C C C C C C C
+C C C C M C C C R C C C C R C M C C C R R R C
+C C C C M C C C R C C C C C C C R C
+M C C C C R C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C
+C C C C C C C C C C C
+R C C C C C C C C C C C C C
+C C C C C R R C C C C C C R C
+C C C M C U C C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C M C C C C C C C C
+C C C C C C C C C C C C C R C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C C C C C C C
+C C C C C R C C C C
+C C C C C C C C R C C C
+C C C C C C C C C C
+C C C C C C R R C C C C C C C
+C C C R C C R C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C R R C M C C C C C C C C C C C C C C R C C C C C M C C C C C C C C
+C C C C C C C C C C C
+C C C C C
+C C R C R C C C C C C C C C C C
+C C C C M C C C M C C C C C C C C C C C C C
+C C
+C C
+C C C
+C C C C C
+C C C
+C C C C
+C C
+C R C C C C C R C C C C C C
+C C M C C C R R C C R C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C C M R R C C C C
+C C C C C C M C C C C C C C C C R C C C C C C C C C C C C C C C C C C
+C C C C R C C
+C C C
+C C
+C C C C C
+C C C C C C C R C C C C C C C C C C C U R C C
+C C C C C C C C C C C R C C C C C C C C C C R C
+C U C C C C C C C C R C C C C C
+C C C C C C C C C R C
+C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C M C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C R C C R R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C U R C C C C
+C M C C C M R U C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C R C C C R R C C C C
+C C C C C C C C C C C C C C C C C
+C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C
+C C C C C C
+C C C C C C
+C C M C C C C C C C C C R C C C C
+C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C R C C C C C C C C C R M R C
+C C C C C C C C C C M C C C
+R C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C U R C
+R R C C C M C C C C C C
+C C C C C C C C C C C C C C C
+R R C C C C C C C C C C C C C C C
+C C U R C C C C
+C C C C C C C R C C C C
+C C C C C C C C C C C C M C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C
+C C C R C C C M C C C C C C
+C R C C R C C C C
+R R C C C C C C C C C
+C C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C R U C C C M C C C C C C C C C C C C C C C M C C C C C C C C
+C C C C C C C C C C C C R C M C C C M C C C C
+C C C C C C M C C C R C C R R C C C C C C C C C M R C C
+C C C C C C C C C C C C C C M C C C C C C C C C C C
+M C C U C C C C C C U C C C C C C C C C C C C C R C
+R C C C C C C C C C R C R C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C R C R C C C C C C C C C C C C C C C C C C
+C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C
+C C C C R C C C R C C C C C C C C C M C U C R C C C C C C R C C R C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C
+C C C C M C C C C R C C C C C C C C C C C C
+C C C C C M C R C C C R R C R C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C R C R C C C C R C M C C C C C C C C C C C C C
+C C R C C C C C R C R C C C R C C C C R C C C C C
+C R C C C C C C C C C M R C C M C C C C C C R R C R R C C C C R C M C C C C C
+C C C R C C M C C
+C C C C C C C C C M C C C C C R C C C M C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C
+C C C M C M C C M C R C C C C C C C C C C
+M C C C C
+R R C C C C M C R R C C C C C
+C C C C C M C C C C C C M C C C
+C R C C C C C R C C C C
+C C C C C C C C C C C C R C
+R R C C C C C R C C C R R C C C R C C C C C C
+C C C
+C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C R C C C C C C C C
+C R C C C C C C C C C C C M C C M C C C C C C C
+C C C C C C C C C C C C C C C U C C C C
+C C C
+C
+C C C C C C C R C C C C R R C C C C C C C C M C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C M R C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C C C C
+C C C C
+C C C C C C R C C C C C R C R C R C C C C C C C C C C C C C C C C C M C C C C C C C
+C C C C C C C C C C C C C R C C C C C C C C
+C M C C R C C C C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C
+C C C R C C C C C R C R C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C C C C C
+C C C C C U C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C
+C C C C C
+C C C
+C C C C C C C C
+C M C C C C C
+C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C
+C C C C C C C C C C C C C C
+C C R C C C C R C C C C C C
+C C C C C C C C C C C R C
+C C C C C C M C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C C C C C R C C C C C
+C M C C C C C C C C R C C
+C C C C C R C C C C
+C C C C C C C R C
+C C C C C C R C C
+C C C C C C C C C C C C C C R C
+C C C C C C
+C C C C C C C C C
+C C C C R C C C C C C C C C C C
+C C C C C C C C R C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C R C R C C
+C C C C C C C U C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+R C C C C C R C C C C C
+C C C C C
+C C C C
+C R C C C C C C C C C C C C C C
+C C C C C C
+C C C C R C C
+C C C C C C C C C C C C C C C C C C
+C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C M C C C R C C C R C C C C C C C C C C C C C C C
+C R C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C U C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C C R C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C R M R C C C R C C C C C C C C C C C C C C C C C C R C C C R C C C C C C C C C
+C C C M C M C C C C C C C C R C
+C C C C C C M C C C C C C C C C C C C
+C C C R C C C C
+M C C C C R R C C C C C C M C C C C
+C C C C C C C C C C C C
+C C C M C C C C C
+C C C R C C R M C C R R C C
+C C C C C C C C C C C C C C C
+C C C C C C
+R C C C C C C C C C R C
+C C C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C C C C
+C C C C C C C C C C C C C C C C C C C C R R C C C C C C C C C C U C C C
+C C C C C C C C C R C C C C C C C C
+C C C C C C C C C R C C C U C C
+C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C R C C C
+C C C C C C C C C C C C C C C R C C C C C C
+C R C C C C C C C C C R C C C C C C R C C C
+C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C
+R C C C C C U C C R C C R C C C C R C C C C C
+R C C C C C C C C C
+R C C C C C C C C C C C C C
+R C R C C C C R U R C C C R C C C C C M C C C C C R M C R R R C C C R R R C C C R C C C C C C C R R C C C C C C C C C C
+R C C C C R C C C C C C C C C C C M C
+R C C C C C R C C R C C C C C C C C C C R R C C C C C C C C M R C M C C C C C C C C C C C C C C C C C C C R C C C C R C C C R C C C C R C C C C
+R C R C C C C C C C U C C C C R C C R C C R C R
+C C C
+C C C C C C
+C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C R C C C C
+R C C C C C C C M C C C C C C C C C C C C C C C
+C C C C C C M C C C C C C C C C C C C C
+C C C U C C C
+C C C C R C R C R C C C C C C
+C C C C C C C C
+C C C C C C C C
+C C C C C C U R C C C C C C C C
+C C C C C C C C C C M C C C C C M C C C C M C C C C C C M C C C C C C C M C M C C C C C C R C R C M R R R C C C C C C C C C C M C R C C C C C C M C C C R C C C R C C M C C C C C M C C M C C C C C C C C C C C C M C R C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C R C C R C C C C C M C M C C C R C C C C R U C C C C
+C C C C M R R C C C C C C C C C C R R C R C C C C C C C C C
+C R C C C C C C C C C C C M R C C C C C C C C C C C C R R R C C C C C C C R C C R C U C C
+C C C C R C C C C C R C C M C C C C C C C R C R C C C C C C C C C
+U C C C C C C C C C C C C C C C C C C C R C C C C
+C C C C C C C C C
+C C C R R C C C C C C C C C C
+C C C C C C C C M C C C C C C
+C M C C C R C R C C
+C R C R C C C C C C C C
+C C C C C C C R C
+C R C C C C C
+C C C C R C C
+C C C C C R M C C C C C C C
+C C C C C C C C C C C C C R C C C C C C C C
+C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C R C C C C C C C C C C C R C
+C M C U C C R C C
+C C C C C C C C C C C C C R C M C
+C C C C C C C C C C R C C C C C C
+C C C C C C C C U C C C
+C C R C C C C C C C C C C C
+C C C C C C C C C C M C C C C C C C C C C C C
+C C C R R C C C C C R R C U C R C R C C C C C C
+C C C C C C C C C C C U C C C C C C C R C C C M
+C C C C C C C C C C C C C C U C C R C C C C C C
+C C C C C C C R C R R R C C R C C R R U C R U C C C
+C C C C C C
+C C C C C C C C C C R C C C C C C C C
+C C C C C C C C
+C C C C R C C C C C
+C C C C C C C C R C C
+C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C M C R C
+C C C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C M C C R C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C M C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C C
+C
+C C C R C
+C C R C C C C C C C C C
+C C C C C C C C U C C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C C C C U C C C C C C C C C C
+C C C C C C C C C C M C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C R U C C C
+C C C R R R C C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C R C C M C C C C
+C M C C C C C C C C C C C C C C C C C C C C R R R R C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C U R C C C M C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C C
+C M C C C C C C C C C C C C R C C C C
+C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C M C M R R M C C C C C C C C C C C C C R C C C C C C C C C C M C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C
+C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C R C C C C C C C C R C C C C C C C R C C C C
+C C C C C C C C C C
+C C C C C C M C R C C C
+C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C
+C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C
+C C C C R C C C
+C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C R C C
+C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C
+C C C C C C C M C C C C C C C
+C C C C C C C C C C
+C C C C C
+C C C C C C
+C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C
+C R C C C C C C C C C C C C
+C C C C C
+C C C C C C C C R C C C C C
+C C C C
+C C C C C U C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C C C C C C C C R C C C C C C C C C C C C C
+C C C C C C M C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M R C
+C C C C C C C C C R C C C C M C C C C C C C C C C C M C
+R C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C C C C R C C C R C
+C C C C C C C C C C C C C C C C
+C
+C C C C C C C C C C C C C C C C C
+C C C C
+C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C M C C R C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C
+C C C M C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C
+C C C C U
+C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C R R C C C C C C C C R C C C
+C C C C C C C C C C C C M C C C
+C C C C C C C C C
+C C C C C C M C C C C U C C C
+C C C C C
+C C C C C C C
+C M R C C C C C C C C C C
+C C C C C C C C C
+C C C C C C
+C C C C C C C C C C U C C C C
+C C C C C C C C C C
+C C C
+C
+C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C U C C C C C C
+C C C C C C C C C C C C C C U C C C C C C C C C C C C C C C C C
+C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C
+C C M
+C M C C C C C C C R R R C M C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C R C C C C C C C C C C C C
+C C C C C M C C R R C C C C C C C C C R C M C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C R R C C C C C C C C C C C C C R R C M C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R C R C C C C C C C C C C C C M C C C C C C C C C C
+C C C C
+C C
+C C C
+C C C C
+C C C C
+C C C C C
+C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C C C C
+C C C M C C C R C C C C C C
+C C C C C C C C C C M C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C R C M C C C C C C C
+C C C C M C C C C C C C C R C
+C C C C C C C R C C C C C R C C C C C C C
+C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C C
+C C C
+C C
+C C C C C C C C C C C C C C C C C C C C C C R U C U C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C U C C
+C C C C C C C R
+C C C C R C R C C C C C C R C C C C C C C C C C C C C C C C R C C C R C C C C
+C C C C C C C C C C C C
+R C C C C C C C C C C
+C C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C R C C C C
+C C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C R C R C C C C C C C
+C C C C C C C C C C C C R C C C C C C
+C C C C C C C C C M C C C C C C C C C C C C C C C R C R C C C C
+C C C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C
+R C C C C C C C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C
+C
+C C C C C C C C C C C C C C C C C C C C C C C M C C C C C
+C C C C R C C C R R R C C C C C C
+C C C
+C C C C C C C C C M C C C R C C C C C C C C C C C C C C C C C C C C C C C C R C C C C M C C C C C C C C C C C C
+C C
+C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C R R C C C C C C C C C C C C C C C C C C C C C C R C C C C C
+C C C C C C
+C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C M C C C C C C C C C C C
+C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C
+C U C C C C C C C C C C
+C C C
+C C C
+C C C C
+C C C C C C C C R U C C C C C
+C C C C C C C C C R C C C C
+C C C C C C M C C C C C C C R C C C C C C C C C R R R C C C R C C C C M C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C
+C C M C C C C C C C M C R R C C C C C C C M C C C C
+C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C
+C
+C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C M C C C C C C C C C C C R C C C C C C C C C C
+C C C C C C C R M C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C M C C
+C C C C C C C C C C C
+C C C C C C C C C C
+C C M C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C
+C C M R C C C C C C C C C C C C C C C C C
+C C C C C M C C M C C M C C C C C C C C C C C C C C C
+C C C
+C C
+C C C C C M C C C C C C C R C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C R C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C
+C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C R C C C C C C C
+C C C C C C C C C M C C C C C C C C C C
+M C C C C C C C C M C C C C C C C C C C C C
+C C C C C C C M C C C C C C M C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C
+C C C R M C C C C C C C C C C C C C C C C C
+C C C C C U C C C C C C C C C R C M C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C U C R R M C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C M R C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C R R C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C R C C C C R C C C R C C C C C R M C C C C C C C R C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C R R C C C C C C R C
+C C C C C C C C C C
+C C C C C C C C C C C
+C M C C C C C C
+C C C C C C C C C R C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C U C C C C C C C C C C C C
+C C C C C R C C C
+C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C R C C C C C C C C
+C C C C C C C C
+C C C C C R C R C C C R C C U C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+R R C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C R C C R R C C R C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C M C U M C C C C C C C C C C C C C R R C C M C C R C R C C C C C C C C C C C C C C M C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C R R C
+C C C R C C C M C R C C C C C C C C C C R C C C C C C C C C C C C C C
+C C C R C C C C C
+C C C R C C C C C C C C C C C C C R C C C C
+C C C C C C R C C C C C C C C C C R C C R C
+C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C R C C C C
+C C C C C C C C C C R R C C C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C U C C
+C R C C C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C U C C
+C C C C C C C C C C C C C C
+C C C C C C C C C R C R R C R C M C
+C C C C C C C C C
+C M C C C C C C C C C C C C C C
+R C C C M C C C C R C C C C C C
+R C C C
+C C U C C C C M C C C C C C C C C C C C C C C
+C M C C C C C M C C C C C C C C C C
+R C C C C C M C C C C C R C C
+U U C C C C C C C C R C
+C C C M C C C C C C R C
+C M C C C C C C C C C
+C C C M C C C C C
+C C C C C C C C C
+C C C C C C C C C C C
+C R C C C C C C C C
+R C R M C C C C C C C C C C C
+C C C R C C M C R C C C
+C C C M C C C C C C C C C C C C C
+C C C M C C C C R C
+C R C C C C C C C C C C C C C C C C C C C C C C
+C C C M R C C C C C R C C C R C R R C C
+C C C C C C C C C C C C
+C C C M C C C C C C C C
+C M C R C C M C C C C C C C
+C C C C C C C C M C C C C C
+C C C R C C R C C C
+C C C M C C C
+C C C R C C C C R C C C C C C
+C C C C C C C C C C C C
+C C C C C M C C C C C R R R R C C C C C C C C
+C C C C C C C C C C C C R R C C C C
+C C C C C C C C C C R C R C C C R C R R R C C C C
+C C M C C C C C C R C C C R C C M C C C C C C R C C C C C R R C R M C C
+C C C R R C C C C C C C C C C C C C C C U C C C C C C C C
+C C C C C C C U C C C C C C C C C C C C C C C C C M C C
+C C C C C C C C C C C U C C C C
+C C C C C C C M C C C C C C C C C C C C R C C C C C C R R C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C R M C C C C C C C C C C C C C C C U C C C C C C C
+C C C C C C C C C C C C M C C C C C C C R R C R C R C C C C C C C C C C C C C C C C C C C C R R C C C C C C C C C C C C C C C C R C C C C C R C C C C C C R C C C R C C C C C C
+R R C
+C R C C C C C C C C C M C C C C C C C C C C C C C C C C C C
+C R C U C M C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C
+C C C C C C C C R M C R C C C C C C C C
+C C C C C C C C C C C C C C C C C C C R U C C C C
+R C R C C C C C C C C C M C C C C C C M C M C C
+R C C C C C C C C C C C C C C C C C C C C R C C C U C C C C
+C C C M C C R C C R C C C C M C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C M C C C C
+C C C C C C C M C C C C C C C C C C C C M C C C C C C M R R C C C
+C C C C C C C C C R C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C M C C C C C C R C C C C C C C C C
+C C C C C C C C C C C M R C
+C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C M C C C C C
+M C C C C C C C C C C C C R U R C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C R C C C C C C M C U R M C C C C C C C C C C C C C C C C C C C
+C C M C C C U C C C C C C C
+C C C M C R C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R R C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C R M C C C C C C C C C C C C C C C M C C C C C C U C R C C C
+C C C C C C C C C C C R C C C C C C C C
+C C C C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R C C C C C M C C C
+C C C C U C C C C C C C C C C C M C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R R R C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C M C C C C C C C C C C C C C C R C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C
+C C C C U R C C C C R C C C R M C C C C U C C C
+C C C C U R C C C C R C C C R M C C C C U C C C
+C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C R C C C R R C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C R C C C C C C
+C M C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C M C C C
+C C C C
+C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C R C C C
+C C C C C
+C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C
+C C C C C C C C C C C C C C C C C C C C C C C C R R R C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C U C C R C C C C C C
+C C C C C C
+C C C C C C C U C C C M C R C
+C C C C C C C C C C C C C
+C C C C R C C C C C C
+C C C R C C C C C
+C C C C
+C C C C C C C C C C
+C C C C C M C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C R C C C C
+C C C C C
+C C C R C C M C C C C C C C C C C C
+C C C C C C C C C R C
+C C C C C C R C
+R C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C C
+R C C C C C
+C M C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C M C C C C C C
+C C C C M C C C C C C C C C C C C C C C R R C C C
+C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C C C C
+C M C C C C C R C C C C C C
+C C C C C C C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C R C C C C C C C R R C C C C C C C
+U U C C C C C C C C C R R C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C U R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C R R C C C R C C C U C C C C R C C C C C C C U C C C
+C C C C C C C C C C M C M C
+C C C C C C C C C C C C C C R R C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C
+R C C C C C C R R C U U C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+U C C C C C C C C C C C C C C C C C C C
+C C C C C C R R C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C R C C C
+C C C C C C C C M C C C C C C C C
+C C C U C C C C C C C C C C C M C C
+C C C C C C C C C C C C C R C
+C C C C C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C U C C C C C
+C C C C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C
+C C C C C C C M C C C C C C C
+C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C U R C R C C C C C
+C C C C M C C C C C C C C M C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C M C
+C C M C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C
+C C C C C C C C C C C M C C C C
+C C C C R C C C C C C C C C C C C C C C C C C
+C M M C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C C C C C C C R R C C C C C C C
+C C C U C C C C R R M C C C C C C C C C M R C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C
+C C M C C C C C C C C C
+C M C C C C C C M U C U C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C U C C C C C C
+C M C C C C C C C M C C
+C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C C
+C M C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C M C C C C C C C C C C C C C C C C C
+C C C C C R C U C C C
+C M C C C C C C M C C C C C C M C C C C C
+R C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C
+C M C C C C C C C C C
+C C C C C R R C C C C C C C C C C C C C C C R C C C C M C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C C R R C C C C C
+R M C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C R C R C C R R C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R C C R C C C C C C
+C C U C C R C C C U C C C C C C R C R C
+C C C C C C C C C C C C C C C C C C C C R C R C C C C
+C C C C C R R C C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C C M C C C C C
+C C C C C C C C C R C C R R C C
+C C C C C C M R C
+C C C C C C C C C
+C C C C C C C C C C C C
+C C R C C
+C M C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C R C C C R C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C U C C
+C C C C C C C C C C R C C C C C C C C C C C U C C C C C C C
+C C C C C C C C C C C C C C C C C C C R C C C C R C C C C
+C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C M R C C C C R C C C C C U C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C
+C C C C C C C C C C R R C C C C C C C C C C C
+M C C M C C C C C C R C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C R C C C C C C C C C C C C R C C
+C M C C U C C C C C C C C
+C C C C R C C C C C C C C C M R C C C C C C C C C C R R R C C C C C
+C C C C C C C C C C C C C C C C C R C
+C C C C C C C M M C C C C C
+C C C R C C C C C C R C
+C C C C C C C C
+C U C C C C C C C R C C C
+C C U C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C
+C C C C C C C C C
+C C C U C C C C C C C
+C R C C C C C C C C C C C C C C C C C C C C C C C U C C C C C C C C
+C C C C C C C C C R C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C R C C C C
+C C C C C C C C C C
+C C C C C C C C C
+C C C R R C C C C C C C C C
+R C M C R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C
+C C C C C C C C C C C R C C C C R R R R C C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R R C C C C C R M C C C R C C C C C C C C C R U R R C C C C
+C C C C C C C C C C C M C C C C
+C C C C C C C R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C R R C C C M R R C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C C
+C C C C C C C R C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C M C
+C C C U C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+U R C C C C C C C C C C C C C C R R R C C C C C C C
+C C C C C C C C C C C M C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C R R C C C C C
+C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C M U C C C C C C C C
+C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C U R C C C C
+C C C C C C C C C C C C C C C C C C C R C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C
+C C C
+C C
+C C C C C C C U C C C C R C R C C
+C C C C C C C C C C C C C C C C C C C C R M C
+C C C C C C C C C C C C C C C C C C C C C C C
+R C C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C R R R C C
+C C C C C C C C C C C C C C C C M R C C C
+C C C C C R R M C C C C
+C C C C C C C M C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C R R C C C C C C C C C C
+C C C C C C C C C R M C C C C
+C C C C C C C C C C C M C C C C C C C C C C
+C C C C C C C C U C C C C
+C C C C C C C C C C C C C R C C C C C C C C C
+R C C C C C C C C C C R C C C C
+C C C C C C C C C C C C R C C C C C C C
+C M C C C C C C C C C C C C C M C C C C C C R M C C C M C C C C
+C C C C C C C C C C C C U C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C R C C C R C C R C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C C
+C C C C C C C C C C C U C C R R C C R R C
+C C C C C C C C C C C C R C C M C C C C C
+C C C C C C C C C C C C C M C C C C C C C C C C
+C C C C C C C C C C C M R C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C U C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C R C C C C C C C C C C C C C C C C C U C C
+C C C C C C C C C C C C C C M C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C
+C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C R C C C C C
+C M C C M C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C C C C C M C C C M C C C C C C C C C C
+C C C C C C C C C C C
+C R C C C
+C C C C C C C C C C C C
+C C C C C C C C M C C C C R C C C C R C C C C C
+C C C C C C C C C C C C M C R C C C C C C C C
+C R M C C M C C C C C C C C C
+C C C C C C C R C C C C
+C C C R C C C C C R
+C C C C C C C C C C C C C C C
+C C C C C R C C C C
+C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C
+C C C C C C C C
+C C C C C M C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C R C C C C C C C C
+C C C C C
+C C C C C
+C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C
+C C C C C R C C C C C C C C
+C C C C C C C C
+C C C C M C C C C
+C C
+C C C C C C C C C
+C C R C C
+C C C M C C C C C C C C
+M C C C C C C C C C
+C M C C C C C
+C C C C C C C C C C
+C U C C R C C C C C C C C
+C R C C C C C C C C C C C C C C C C
+C C C C C C R C M R C M C
+C C C C C C
+C C C M C C C R C
+C C C C C C C C
+C C C C C C
+C C C C C C
+C C C C C C C C C R R C C C C M C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R R C C C C C C C C C C M C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C C R R R C C C C C C U C C C C C C C C C C C C C C C C C C C
+C C U C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C
+C C C C C C C C C C R C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C R R C C C C C C R C C C C C C R C
+C C C C C C C C R C C
+C C M C C C C C C C C M C C C M C C R C C
+C C M C C C C C C C C C
+C C R M M C C C C C C C C C M C C C C C M C C C C R C C C
+C C C C M C C C C R C C C C C
+C C C C R C C C C C C C M C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C M C
+C R C C C C C C C C C C C C
+R C C R C C C C C C C C C C
+C M R C C C C C C C C C C C
+C M C C C C C C C C C C
+C C C C C C C C
+C C C C M C C C C C C C C
+C C M C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C M C C C C M C C C C M C C C C C C C C C C C
+C C C C C C C
+C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C R C C C R C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C M R C C C R C C C C C C C C R C C C C C C C C C C C C C C C R C C C C C
+C C C C C C C C R R C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+R C C C C C C C C C C C C C C C C C C C C C C C C C C C M R R C C C
+C C C C R C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C R C
+C C C R C C C C C C C C C
+C C C R R C C C C C C C C C C C C C
+C C C C C C R C
+C C C C C C M C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R R C C C C C C C C U C C
+C C C C C C U C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C R C C C
+C C C C C C C C C C C C C C
+C C C C C C C
+C C C R C R C C C C C C
+C C C C C C C C C C C C C
+M C R R C C
+C C C C C C M C C C C C C C C C C C
+C R C C C C C C C C C C
+C C C C C R R C C C C C C C C C
+C C C C C C
+C C C C
+C C C C C C C C C C C C C C C C C C C C R C C
+C C C C C C R R C
+C C C C C C
+C C C C C C
+C U C C M C C C C C
+C C C C C C C C C C
+C C C C C C C R C C C C C
+C C C C C C C
+C
+C C C C
+C C C C C C C C C
+C M C C C C C C C C C C C
+C C C C C C C C C C C
+C M C C C C C C C C C C
+C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C U C C C C C C C C R C C R C C C R C
+C C C C R R C C C C C C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C
+C C C C C C C C
+C M C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C R C C C C C
+C C C C C M C C C C C C C C C C C C R C C C C C C C C
+C C R C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C U C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C
+C C
+C C C
+C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C M C C C C C C C
+C M C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C R R C C C
+C C C C C M C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C
+C C C
+C
+C C C M C C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C
+C C C C C C M C C C C C C C C C C C C C C C C C R R C C M C C C C C C R C C R C C C C C C C C C C C R C C C C C C C C C C M C C
+C C C C C C C C C M C C C C C C R C C C C C C C C C C C C C C C C C C C C C R M C C M C C M C C C C C C C C C C C C C C R C C C C C C C C C C M C C C C C C C
+C C C C C C C C C C C C C R R C C C C C R C C R C C C C C C C C C C C M C C C C C C C C C C C C M C C C R R C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C
+C C R C C C C C C C C
+C C R C C
+C C C C C U C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C R C U C C C U C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C U C C C C
+C C C M C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C M M M C C C C C C C C C C C C C C C C C
+M C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C
+C M C C C C C C C C C C
+C C C C C C C C C C R M C C
+C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C R R R C R C C C C C C
+C C C C C C C C C C C C C C C
+C C C R M C M C
+C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C U C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C M C C C C C C C
+C C C C C C C C C
+C M C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C
+C C C C C C C R M R C
+C C C C C C C C C C C M C C C
+C C C C C C C C
+C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C R C C C C C C C C
+C C C C C U C C C C C C C
+C C C C C C C C C R C C C C C C C C
+C C C M C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C C
+C C M C C C C C C C
+C C C C R C C C C C C C C C C C C R C C C C C C C C C C C C C C C C R R M C C C
+C C C C C C C R C C C C C C C C
+C C C
+M C C R R R C M C C C C C C C
+C C C C C C
+C C C C C C C R C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C R C C C M
+C C C C C C C C C C C C C C C C
+C C C C C C U C C C
+C R C C C C C C C
+C C M C U C C C U C C U C C C
+R U C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C C C C C C C C R C C C C C C
+C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C
+C C
+C C C C C
+C C C C C C C C C C C C C C C R C C R C C C C C C C C R C C C C
+C C C C C C C C R R R C C C C C C C C C C C C C C C C C C M C C C
+C C C C C C C R C R C C C C C C C C C C C C C C C C C C C C R R R C C R C
+C C C C C C C R R C M C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+R R R C C C C C C C C C R R C C C C C C C C R C C C C C C C C C C C R R C C M C C C R R C
+C C C C C C C C C
+C C
+C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C C
+C C C C
+C C C C M U C C C C C R R C C C C C C C C C C C C C C R R C C C C C C C R C C C
+C C C M C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C M C C C C C C C R C C C C C C C C C C C C R R C C C C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C R C C C C C R C C C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C R C C
+C C C C C C C C C C C C C C M C C C C
+C C U C R R R C C C C C C C C C
+C C C C C C C C R C C C C C C C C C
+C C C C C C C C C R C C
+C C C C R C C C C C C C
+C C C M C C
+C C R C C C
+C C C C C R C C C C C C C C R C C C R C C C C C C C C
+R C C C M U C C C C C C C C C C C
+C C C C C R C C C C R C C C C
+R C C C C C C C C C C C C C C C C C C M R C
+C C R C C C C C C C C R R C C C C C C C C C U C C C C C C C C C C C C C C
+C C C C C C C C C C C C U C C C C C C C C C C C C C C
+C C C C C C C C M U C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C M C
+C C C C C U C C C C C C U C C
+C C C U C C C C C C C R C C C C C C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C M C C C C C C C C C C U C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C M C C
+C C C C C C R C C C C C M C M C C M C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+M C C M C C C C C R M C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C R M R R C C C C C C C C
+C C C C C C C C C C C C C C M C C C C C C C
+C C C C C C C C C C R C C C C C C C C C C U C R C
+C C C C C C C C C M C C C C C C C C C C
+C C C C M C C R C C C C C C M C C C C C C
+C C C C C C C C C C C C C
+C C C C C C R C
+C C C C C C C M C C C C C M C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R R M C M C C C C C R R M C M C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C
+C U C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C M C C C C C C C C C C C R C
+C C U C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C R C C C
+C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C R C
+C C C C C C C C R C C R R R C C C C C C C M C R C C C C C C C C C
+C M C C C C C C
+C C C C C C C C C C C R C C
+C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C
+C C C C C C C C C R C C C
+C C C C C C C C C C
+C C C C C C C C
+C C C C C M M R M C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C
+C C C C C C C C C C M C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C C C C C R C C C C C C C
+R C C C C C C C C C C C C
+R C C C C C C C C
+R C C C C C C C M C C
+C M C C C C C C C C C U C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C M R R R C C C C C C C C C R C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C
+C C C C C C U C C C C
+C C C C C C C C C C
+C R C C C C C C C C M M C C C C C C C C R C C C C M C C C C C C C C
+C M C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C
+C C C C C C C R C C
+C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C
+C M C C C C C C C C C R C C C C C C C C C C C C C R R C C
+C C C C C C C C C C C C C C
+C C C C M C U R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C
+C C C C C C C C C C C C C C C C C C C C R C C
+C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C R C C C M C C
+C C C C C C C
+C C C R C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C R R C C C
+C C C C C C C C C C C C C C C C C C C R C C C C C C M C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C R C C C C C C C C R C C C
+C C C C C C C C C C U R R C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C R C C C C R C C C C
+C C C C C C C C C C C C C C C
+C C C M C C C R C C R C C R C C C C C C C C
+C C C C C C C C C C C C U R C C C C C C M C R C C C C C C R C C C C C
+C C C C C C C C R C
+C C C C M C C C C C C C C C C C
+C C C C C C C C C M R R C C C C C C R C C C C
+C C C C C C C M C C
+C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C C C C C C C
+C C C C R R R C R U C C C C R R C C C C C C C C C C C C C C C C U C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C
+R R C C C C C C C R C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C M R C C C C C C C C R C R C C C C C C C R C
+C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C M R C C C C C C
+C C M C C C C C C C C C C C C C C C C
+C C C C C M C C C C R C C C
+C C C R C C C C C C C C C C C R R C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C R R C C C C
+C R R R M C C C C C C R C C C C C M C C C C C
+C C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C R C C C C C C C
+C C C R C C C C C C C
+U C C C M C C C C C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R R C C C C C M C C C C R C C C C C C C
+C C C C C C C C C C C
+C C C U C R C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C R C C M C C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C
+C C C C C C C C
+C C C C C C C C C U R C C C C C C R R C C C C R C C C C C C C C C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C R R C R C C C R R R R R R R R C
+C C C C C C C C R R C C R M C C R C C R R C C R C C C C C C C C R R R C C R C C C C C C C C C R C C
+R R C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C R C C C C C
+C U C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C R R R C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C
+C C C U C C R R R C R C C C C C C C C C C C R C C C
+C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C U C C C C
+C C C C C C C C C C C C C C C C C C C C R R C C R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C R R C C C C C C C C C C C C C
+C C C R U C C R C C C C C C C C C C C C C C R C C U C C C C C
+C C C C C C C C C C C C C R C C C
+C M C C C C C C C C C C C C C C C C C
+C C C C C R R C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R R C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C C C C C R C C
+C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C R R R C C
+C C C C C C C C C C
+C C C C C R C C C C C C C C C
+C C
+C C C C C M C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C M C C C C C C C C C C C C
+C C C C C C C C C M C C M C R C C C
+C C C R R C C C C C C R C C C
+C C C C C C C C C C C C R C C
+C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C R C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C R C C C C C C C
+C C C R C C C C C C C
+C R C C C C C C M C U C C C C C R C C U C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C M C C R C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C
+R C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C M C C C C C C
+C C C C C C R C C C R C C C C C C C C C C C C C C C C C C C R R M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C M C C C C C M C
+C C C C C R R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C R C C R C C C C C C C C C C R C
+C C C R C C C C C C C C C C
+C
+C C C C
+C C C C C C C C C R R C C C C C C C C C M C C C C C C C C C C C C C C C C M C C C C C C C C C
+C R C C C R C C C R R C C C C R C C C C M C C C C C C M C C C C C C C C C R C C C C C C C R R C C C C C R C C C C R C C C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C M C C C C R C C C C C C C C C R R C C C C C C C M R C C C C C C C C M C C C C R C R C C C C C C C C M C C C C C M C R R C C C C C M C C C C C C R R C C C U R C C C C M C C C C C C C C C C C M C C C C C C C C
+C C C C C C C C C C C C C R C C C C C R R R C C C C M C C C C R C C C C C C C C C C C C C C C C C C C C C M C C C C C C C U R C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C M R C C C M C R C C C C C C C C C C C C C C M C C C M C C C C C C C C C
+C C C C C C C C C C C C C C
+C M C C C C C C R C C R R R R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C U C C C C C C C C C C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C
+C C C M C C C R C C C C C C C C C C
+C C C M C C C C C C C C C C C C
+C C C C C C M C C C C C C C M C C C C C C C C C C C C C M C C
+C C C C C C C R C C C C M C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C R R C C C C C C C C M C C C C C C C C C C C C
+C C C C M C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C U C C C C C C M C C C C C C C
+C C C C C C M C C C C C C C C C C C C C C C C R C C C R R R C C C C C C C C C
+C C C
+C C C C C C C C C C C C C C R M C C
+C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C M C C C C C C C C C C
+C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C R C C C R C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C M C C R R C C C C C M C C M M C C R R C C C C C C C C C M M M C R M C C C C
+C C C C C C R R C C C M C C C C C C C C C C R R C C C C C C C C C C C C R C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C M C C C C C M C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C
+C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C
+C C M C C C C C C
+C C M C C C C U C R U C C
+C C C M C C C M C C
+C C R C R C C C C C C C C C C C
+R R M C C C C C C C C
+C C R C C C C C C C C C C C
+M C C C C C C C C
+C U C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C R C
+C C C C C C C C C C C C R C C C C C C C C
+C C R C C C C C C R C C C C C C C C C C C C C C C C C C C C R R C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C R C C C C C C C C C C U C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C M R C R R C C C C U C M C C C C C C C C C C C C R C C C C C
+C C C C C C C R R C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C M C C C C M C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C
+C C C
+C C C R C C C C C C C C C C C C C R C C C C C C C C C C C C C C
+C M C C C C C C C C M C C C C C M C C C C C U C C C M C C C C C C C
+C C C C C C C R C C C C C C M C C C C C C M C R R C R C C C M C C C C C C C C
+C C C C C C
+C C C C
+C C
+C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C R R C C C C C C C C C
+C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C
+C C
+C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C
+C C M C C C C R R C C C C R C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C R R C C M C C C C
+C C C C C C C C C C
+C C M C C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C C C C C C
+C C C C M C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C
+C R C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C U C C C C C C C C C C C C C C C C
+C U C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C M C C C
+C C C C C C C C C C M C C C C C C
+C C C U C C C C C C C C C C C C C C C R C C C C C C C C
+C C C M C C C C C C
+R C C R R C C C C C C C C
+C M C C C C C C C C C M C C C C C C C C C C C C C
+C C R C C C R R U C C C C C R C C C C C C C C C
+C R C C C C C C C
+R C C C C C C R R M C C C C C R M C R R C R R C C
+C C C C C C C C C C C M C C C C C C C C C C M C C C C C C C C
+C C C C C C C C C M C
+C C C C C M C C C C C M C C C C
+C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C R C C C C C C C C C R C C C
+C U C C C C C C C C C C C C C C C C M C C C C C C C
+C C C C C C C R C C C C C C
+C R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C
+C U C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C
+C C C
+C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C M C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C R R C C C C C C C C C R C C U C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C
+C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C U R U C C C C C C C R U
+C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C
+C M C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C
+C
+C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C R R C C C C
+C C M C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C R R C C C C
+C C C C C C C C R R C C C C C C
+C C C C C
+C C C C C M C C C C C C
+C M C C C C C C
+C C C C C C C
+C C C C C
+C C C C C C C C C
+C C C C C C C R R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C M C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C M C R C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C
+C
+C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C
+C R C C C C C C C M C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C M C R C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C M C C C C C C C C
+C C C C C C C C M C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C M C C C C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C R C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C R R C R C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+R R R R C C C R R C C C C C C C C C C C C C C C
+C M C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C R R C C C C C C C C C C C C M C C M C C C C R C C C C C C C
+M C C C C C C R R C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C M C C C C C C C
+C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C R R C C C C C C C C C M C C C C C
+M C C C C C C C C C R R C C C C C C C
+C C C C C C C C C C C R R C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C R R C C C C C C C C C
+C C C
+C C C C C
+C C C R R R C C C C C C C C C C C
+M C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C R C C C C C C C C C C C C C C C C C C M C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C R C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R M C C C U R C C C C C C C C C C C C C C C R C C C C C
+C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C
+R C C C C C
+C C C C C C
+C C C C C R R C C
+C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C R R R C C C C M C C
+C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C M C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C R C C C U R R C C C
+C C C C C M C C R C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C R M C M C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C C C
+C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R R C C C C C C C C
+C C M C C C C C
+C C C C C C C C C C R R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C M C C C C C C R C C C C C C C C C C C C
+C C C C C C C R C C C C C C C C
+C C C C C C C C C C C
+C M C C C C R R C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C R C C C M C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C R C C C C C C C C R C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C R C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C U C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C U C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C R C C C C C R M C C C M C C C M C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C M C M C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C M R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C R R C C C C C C C C C C C C C C M C C C C R R C C
+C C C C C C C C C C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R R R C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R R C C
+C C C C
+C C C C C C
+C C C C C M C C C C
+C C C C C C C C C C C C C
+C M U C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C M C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C M C M C C C C C C C C C C M C C C C C C C
+C C R C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C R C
+C M C C C C C C C C
+C C C
+C C
+C C C C C C C C C C C C C C C
+C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C
+C C C C C C C C C C C
+C C C C M C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C M C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C
+C C C C C C M C C
+C C C C C C C C C C C C C R R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C R C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C U C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C U C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C M C C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C
+C C C C C M C C C C C C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C R M C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C U C C C C C
+C C C C C C C C
+C C C C
+C
+C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R R C C C C C C C C C M C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C R R R C C C C C C C C C C C C C
+C C C C C C C C U C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C
+C C C C C C C C C C C C M C C
+C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R C U C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C R C C C C C C R C
+C C C C U C C C C C C C C C C C C C C M C M C M C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C M C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C U C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C R C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C R R C C C C C C C C C M C C C C C C C C C C C C C
+C C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C M C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C U C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C R C C C
+C C C C C C C
+C C U C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C C C
+C C C C C R C C R R R C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C R C R C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C M C C C U C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C R C C R C C C C C C C C C R C C C M C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C M C C C C C C C C M C C C C C C R C C C M C C M R R R C C C C C C C C C C C C C C C C C C C C C C C R R R C C C C C C C R R R C C C C C M C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R C C C C C C
+C C C C C C C C C C C C C C C C C C
+C R C C C C R C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C
+C C C C C R C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C
+C C
+C C C
+C C C
+C C C C C C C C
+C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C
+C C C C C C C C C C C C C C C C C R C R R C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C U C C C C C C C C C C C C C C C C
+C C
+C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C M C C C R C C C C
+C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C
+C C C C C C C C C C C M C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C U C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C R C C C C
+C M C C C C C C C C C C C C C C C C C C C C R U C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C U C C C R C C C C
+C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C R R R C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C
+C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C U C C C M R C C C C C C C C C C C C C C R C C C C C C
+C C C C C R R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C M C C
+C M C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C
+C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C R U C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C
+R R C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C U C C C
+C C C C C C C C C C C C M C C C C C C C C
+C C C C C C C M C C C C C C C C C C
+R C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C M C C C C C C C C C C C C
+C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C
+M C C C C C C C C C C C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C C C M C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C M C C C C R M C
+C C C C C C C C U C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C M M C C M C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C M C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C M M C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C
+C U U C C C C C C C C C C C
+C U U C C C C C C C C C C C C C C C C C C R C C C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R R C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C C C C C R C C R R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C C C C C C
+C C C C C C C C C C R C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C R R R R R C C C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C M C C C C C C C C C C C
+C C C C C C U C C C C C U C C C
+C U C C C C C C C C C C C C C C C C C C C C C
+C C M C C C C C C C C M C C C C C C C R C C C C C C C C C C C C M C C
+C C C C C C C C C C C C C R C C R C C
+C C C C C C C C C C C C C M C C C
+C C C C C M C C C C C C C C M C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C C
+C C C C C C C U C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C
+C C
+C C C C C C
+C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C M C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C
+C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C R M C C
+C C C C C M C C C C C C C
+C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C
+C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C R U C R R U C C C C C C C
+C C U C C C C C C C C C U C C C C C C C C C C
+C C C M C C C C C C C C C C U C C C C C C C C C C C U C C C
+C C C C C C M C C C C C
+C M C C C C C R C C C C C C C
+C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C
+C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C R C C C
+C C C C C C
+C C C C C C U C C C
+C U R R C C R C C C R C
+C C C C C C
+C C C C C C C
+C C C C C C U C C C C C C C C C
+C C C C U C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C
+C C M C C C C C C C C C
+C C U C C C C C M C C C C C
+C C R R C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C
+C C C C C
+C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C R C C C R C M C M C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C M M C
+C C C C C C C R C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C C C C C
+C C C C C C M C C C C C C
+C C C C C C C C C
+C C C C M C C C C R C C C C C C C
+C C U C C C C C C C C C C
+U C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C C C R R R C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C R M R M C R R C U C C C C C C C C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C M C C C C C C C
+C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R R C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C R C C C C R R R C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C R R R C C C R C C C C C C C C C C
+C U C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+M C C C C R C R R C C C C C C C
+C C C C C C C C C C U R C C M C C C C C C
+C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C U C C C C C C C C C C C C C C C
+C C C C C U C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C M C C C C C M C C C C C C C C R C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C C R C C
+C C C C C C R C C C C R C C R C C C C C C C C
+C C C C C C C C M C C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+R C R C C C C C C C C C C C R C C C C M C C C C C C C C C C C C M C C C M C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C M C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C R C C C C C C C
+C C C C R C C C C C C C C C C M C M C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C
+C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C R U C C C
+C C C C C R R C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C C C
+C C C C C C C C R R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R R C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C C C C
+C C C C C
+C C C C C C C C
+C C C C C C C C C
+C C R C C C C
+C C C C C C C
+C C C C C C C C C C C C R C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C R R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C
+C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C U C C C C C C C C C C R C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C M M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C R C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C R R C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C M C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C C C C C C C C C C C C C
+C M R R C C C C C C C U C C C
+C C C M C C C C C M C C C C C C R R C C
+C C C C C C C C C C C M C C M C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C
+C C C C C C M C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C
+C C M C C C C
+C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C
+C C C C C C C C M C C C C C M C R M C C C C C C C C
+C C C C C M C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C M C C C C C C C C C C C C C C R C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C C C C C C C C
+C C C C C C C R C C C C C C C C C C C C C C C R C C C C C
+C M C C C C C C C C M C C C C C C C C
+C C C C C C C C C C C C C C C C C C R R C R C C
+C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R M C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C
+R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C
+C C C R C C C C C C C C C C C M C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C M C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C R R C C C C C C C C C C C C C C C C C C C R C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C M C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C R C C
+C C C C C C C R R C C M C C C C C C C C C C C C C C C C C C C
+C C C
+C C C
+C C C
+C C C C C C
+C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R R C C C
+C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C C C C M C C C C C U C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R R C R C C C C C C C C C C R R C C C M C C C C C R C C C C
+C C C C C C C C C
+C C C
+C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C R C C C C C C C C
+C M C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C M C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C M C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C R C C C C
+C C C C C C C
+C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C U C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C R C C R C C C C C C C R C C C C C C C C C C
+C C C C M C C C C C M C M C C C C C C C C C C C C C C C C C C M C C C
+C C C M C C C C R C R C C C C M C R C C C C C C C R R C C
+C C C C C C C C C C C C C C C C C C C M C
+C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C M C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C M C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C R C R R C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R U R C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C
+C R C C C C C C C C C C C C C C R C C C C R R C C C
+C C C C C C C C C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C R R C R C C C C C C C C C C C C C R C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C
+C U C C C R C C C C C C C C C C C C C C C C C C
+C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C
+R C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C
+C C C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C M C C C C C C C
+C C C C C C C C C U C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C R C C
+C C R C C C C C C C R C C
+C C C C C C C C C R R R C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C R C C C C C C
+C C
+C C
+C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C
+C C C C C C C R C C C C C C
+C C C C C C C C C C C
+C C C C C M C C C C C C C C
+C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C
+C C C C C C C C C C M C C C C C C
+C C C C C C C C R C C R R C C C C C C C C C
+C C C C C
+C C C M C C C C C C C C C C C
+C C C C C C M C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C M C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C M C C C C C C C
+C C C C C C C U C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C R C C C C C M C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R R C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C M M C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C R R C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C R C C C C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C C C M C C C C C C C M M C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+R C C C C C C U C C C C C C C C C C R C C C
+C C C C C C R C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C R R C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C C C M C C C C C C C M C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C
+C C C C C C C C C C
+C C M C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C M C C C C C C C C M C C C C C M C C C C C C C R C C C C C C C R C M C C C M C C C C C C C C
+C C C C C C C M C C C C C C M C C C C C C C C C M C C C C C C C C R M C
+C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C
+C C M C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C R C C C M C C C C C C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C R C R C C C C C M C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R R C C C C C R R C C C C C R R C C C C C C C C C C C C R R C C C R R C C C R R C C C C C C C C
+C C C C C C C C U C C C C
+C C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C R C C C
+C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C R R C M C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C
+C C M C C C C C C C C C C C C C C U C M C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C M C R C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C
+C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C M C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C M C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C R R C M R C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C R R C M C C M C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C M C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C M C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C R C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C U C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C R C R C C C
+C C C C C C C C C C M C C R C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C M C C M C C C C C M C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C
+C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C C
+C C C C C C C C C C C C C C C M C C C C C C C
+C C M C C C C C C C C C C C C C C C C C C C
+C C C C C C M C C C M C C C C C
+C C C C C M C C C R C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C R C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C M C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C
+C C C C C C C C M M C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C U C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C C C C C C C C C
+R C C C C C C C C C C C R R C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C R C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C R C C C C C C C C C C C C C C
+C C C C C C R M C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C R C C R C C C C C C C C R C C C C C C C C C C C C C C C C C R C C
+C C C C C R C C C C C C C C C C C C R C
+C C C C C C R C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C
+C R R C C C C C C C C C C C C C C R R C C C R C C C C C C C
+C R C C C C C C C C C C C C C C C C M C C C C C C C C C C C
+C C C C C C C R C C C C C C C C C C C C R C C C C C C C C C C C C C C
+C C R C C C C C C C C C C C C C C M C
+C C C C C C C C C C C C C C C C C C C C C R R C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C M C C R C R C C C
+C C C C C C C U C C C M M C C C R C C C C C C C C M C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C C C M C C C C C C C C C C C R R C C C C C
+C C C C C C R C C C C C C C C C C M C C C C C C C C C C C R C C C C C C C
+C C M C C C C C C C C C C C C C C C C
+C C C R C C C C C C C C C C C R C C
+C C C C C C C C C C C C C R R C C C C C R M R C C C C C C C R C R R
+C C C C C C C C C C C C C C R C C C C C C C C C C C C C
+C C C C C C C C C C C R
+C C C R C C C C R R C C C C C C C C C C C C C C C C C R C C
+C C M C C C C C C C
+C C R R C R R C C C C C C C C C C R C C C C C C C R C C C C R C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C R C R R R R R C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C C C C
+C C
+C C U C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C R C C C C C C C C C C C C R C C C C C
+C C C C C C R C C C C C C C C
+C C C C C C
+C C C C C C R C C C C C C C C M C C C C C C C C C C C C C C C C
+C C C C C C C C C C R R C C C C C C C C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C R C C M C
+C C C C C C C C C C R R M C C C C C C C R R C R C C C C C C C M C C C C C C C C C C C
+C C C C C C C C C C C C R R C C C C C C C C C C R C C C C C C C C C M C C C C C C R R C C R C C R C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C R R C C C C C
+C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C M C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C M U R C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C R C C C C C C R C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C U C C M C C C C C C C C
+C C C C C C C C C C C C
+C C C C R C C C C C C C C C C M M C C C C C C C C
+C C C C M C C C C C C C M C C C C C C C
+C C C C C C C C C M C C C C C C C
+C C C C C C C C C C C C C C C C C M C C C C C C C C C C
+C C C C C C C C C M C M C C C C C C C
+C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C R R C C C C C C M C C C C C C C C C C C C C C R R C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R R M C C M M C C C M C C
+C C C C C C C C C C C C C C C C C C C M R C C C C C C M C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C R C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C R R R M C C C R R C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R R C M C C C C C C C
+C C C C C C C C C C
+R C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C M C C C C C C C M C C C C C C R C M C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C
+C C C C C R C U C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C M U C C C C C C C C C R R C R C R C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C
+C C C C C C R C C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C R C C C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C R C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C U C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C U C C C C C C C C C C C C C C C R C C C C
+C C C C C C C C C C C C C C R R C C C R C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C U C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C R C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C R C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C M C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C R R C C C C C C C C C C C C C
+C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C M C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C M C C C C C C C C C C
+C C R C C C C C C C R C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C
+C C C C C M C C R C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C U C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C U C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C C C C C R C C C C C C C C C C C C
+R C C C C C R R C C C C C C C C C
+C C C C C C C C M C C C C
+C C C C C C R C R C R R C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C R U C C C C C C C C C C C C C C C C R C C C C C C C C C C C R R C C C C
+C C C C C C C C
+C C C C C C C
+C C C C C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R R C C C C C C
+C C C C C C C M C C C C C C C C C R M M C C C C C C C C
+C C C C C C C C C C
+C C M C C C C C C R C C C C C C R C C R C
+C C C C C C C C C C C C M C C C C C R M C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C R M C C C C C C C C C M C C C C
+C C C M C C C C C C C C C C M C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C R C C
+C C C C C C R C
+C C C C C
+C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C
+C R R C R C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C R R C C C C C C C M C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C C
+C C C C C C M C C C C C C M C C C C C C C C C C C C C C C C R C C C C C C
+C C C C C C C C M C C C C C C C C
+C C C C C C C C C C R C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C U C C C C C R R C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C
+C C C C C C C C C
+C C C C C C C C C M C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C U C C
+C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C R R C C C M C C R C
+C C C C C C C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C M C C C C C C C C C C C C C
+C C C C C C U C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C C C C C C C C C C
+C R C C C C C C C C
+C C C C R C C C C C C C C C C C C C R M C C C C C
+C C C C C C C C C C C C C C C C C C C C C R C C C C R R C C C C C C M C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C R C C C C C C C C R C C C R C C C R C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C U C C C C
+C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C M M C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C
+C M C C C C M C C C C C C C C C C C R R C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C M C C C C C R C C C
+C C M C C R C C C C C C C C C C C C C C C C C C C C C
+C C C M M C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C M C C M C C C C C C C C C C C C C C C
+C C C C C M C C C C R C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R R C C
+C C C C C C C C C C C M C C C C C C M C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C R C C C C C C C C C C C C C C C C C C C
+R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C R C C C C C C C C C C C C C C C C C C C C C R R C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C C C U C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C U R C C C
+C C C C C C C U C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C M C M C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C C C C C C
+C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C
+C C C C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R C M C C C M C C C C C C C
+C C C C C C C C R C C C C C C C C R C C C C C
+C C C C M C C C C R C C C C C C C C C C C C C C C C C C C
+C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C R C C C C C C C
+C C C M C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C M C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C M C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C M C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C R C C C C C R C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C M C C C
+C C C C C C M C C C C R C C C C C C C C C C R R C C C C
+C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C U C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C R R C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C
+R C C C C C C C M C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C R R C C C C C
+C M C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C M C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C U C M C C C C C C C C C C C C
+C C C C C C C C C C C C U C C C C C C C
+C C C C C C M C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C U C C C C C C C C C C C C C C C C C C R C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C
+C U C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C M C C C C R C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C R C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C M C
+C C C C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C R C
+C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C U C C C C
+C C C C C C C C C C U C C C C C R C C C C C U C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C M C C C C C
+C C C C C C U C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C R R R C C C C
+C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C U C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C R R C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C M C C C C C C C C C C C C
+C C M C M C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C C C C C C C C C C C C
+C U C C C C C C C C C C R R C C R C
+C C C C C C C C C C C C C C C C C C C C C U C R C
+R C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C R C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C U R C U C C C C C C R C C M C M C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+R C C R R C C C C C C
+C C C C C C C C C C C
+C C C C C C
+C C C C C C C C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C M C C C C C C R C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C R C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C R U C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C
+C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C R U C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C M C C
+C C C M C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C R R C C C C C C C C M C
+C C C C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C M C C C C C C C C C C C C C C
+C R R U C C C C C C C C C C C C C C M C C C C C
+C C C C C C C C C C C C C C
+C C C C C C M C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C R C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C R C C R C R R C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C M C C C C
+C C C C C C C
+C C C C U U C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C R C C C C C C C C
+C C C C C C C C C R C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C M C C C C C R C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C M C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C R C C C C C C M C U C C C C
+C C C C C R R C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C M R C C C C C C C C C C C C
+C C C R C C C
+C C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C C R C C M C C C C C M C C C C C C C C C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C C C C C C C R R C C C C C C C C C C C C
+C C C C C C C M C C C C C R C C C C C M U C C C C C C C C C C C C C C
+C C C C C C C C C M C C C C C C C C C C C C C C C C M C C C C C C C C C C R C C C C C C C C C C C
+C C C C C C C C C C C C C C R R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C
+C C C C C C
+C C C C C U R C C C C C C C C R C C C
+C C C C R C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C R R C C C C C C C C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C U C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+R R C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C R R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C M C C C C C M C C C C C C R R C C C R C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C R C C C
+C C R C C C C C C C R C C C C R C R C
+C M C C C C C C C C C C C
+C C C M C C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C R C C R C R C C
+C C C C C C C C C C C C C C C C
+C C C C C C C U R R C
+C C C C C C C C C C C
+C C C C C C C C C C C C R C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C R C C C C C C R C C C C C C C
+C C C C C C C C C C C C C C C C C C C C M C R C C C C C C
+C C C C C C C C M C C C C C C C C C C C C C
+C M C C C C C C C C C C C C M C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C R C C
+C C R C C C C C C C C C C
+C C C C C C C
+C C C C C C C C C C C C C C C C C C M C C C
+C C C C C C M C C C C C C C C C C R C C C C C C C C C C C C C C
+C C C C C C C C M C C M C C C
+C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C C C R C C M C C C C C
+C C C C M C C C C C C C C C
+M C C C C
+C C C C C C C C C C C C C M M C R C C C
+C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C C C
+M C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C U C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C U C C C C C C C C C C C
+C C C C C C C C R C M C C C C C C C C C
+C M C C
+C C C C C C C C C C C C C M C M C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C M C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+R C C C C C C C C C C C C C C C C
+C C C C C C C C R C
+C R C C C C C C C C C C C
+C C C R C C C C R C C C C C C C C C C C C C C C C C C C R R C C C C
+C C C C C C C C C C C C C C M C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C R C C R C C C R R C C C C C C C C C R C C R R C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C R C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C R C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C M C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C R C C C C C C C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C R C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C R C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C M C C C C C C C C C C C C C C C C C M C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+R C C R C C C C C C
+C C C C C M C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C R C C
+C C C C C C C C C C C C C C C U C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C
+C C C C C C C C C
+C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C
+C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C R M C C C C C C C C C C C C C C C C C
+C C R C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C M C C C
+C C C C C C C C C C
+C C C C C C C C C C C R C C C
+C C C M C C C C C C C C C C C C C C C C C
+C C C C C M C C C C C M C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C
+C C C C C C C C C C C C C R C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C M C R C C C C C C C C C C
+C C C C C C C C C C R C C C C C C
+C C C C C C C C C C M C C C C C C R C
+C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C
+C M C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C R C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C
+C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C R C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
+C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C R C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C
+C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C C
