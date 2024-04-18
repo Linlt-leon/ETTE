@@ -1,0 +1,1 @@
+python rerank.py --data_dir results/dev --source_file data/bea-dev.txt --auto --output_path bea-19-dev.txt --model greco --lm_model microsoft/deberta-v3-large --checkpoint models/checkpoint.bin --batch_size 16

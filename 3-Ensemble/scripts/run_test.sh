@@ -1,0 +1,1 @@
+python rerank.py --data_dir results/test --source_file data/wi+locness/test/ABCN.test.bea19.orig --auto --output_path bea-19-test.txt --model greco --lm_model microsoft/deberta-v3-large --checkpoint models/checkpoint.bin --batch_size 16
